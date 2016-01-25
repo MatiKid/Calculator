@@ -1,0 +1,13 @@
+.btn-line {
+	margin-bottom: 10px;
+}
+
+.calc-btn {
+	height: 50px;
+	width: 50px;
+}
+
+#display {
+	font-size: 26px;
+    font-weight: bold;
+}
